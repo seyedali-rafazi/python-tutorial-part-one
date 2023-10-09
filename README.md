@@ -1,4 +1,4 @@
-# What I've Learned from Python
+# What I've Learned from Python Part one
 
 This repository serves as a record of my learning journey in Python. I've covered a wide range of topics and concepts, and this README provides an overview of what I've learned so far.
 
